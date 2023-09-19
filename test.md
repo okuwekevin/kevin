@@ -2,8 +2,7 @@
 # hétfő
 1. kenyér
 - tej
-
-
+- sun
 
 
 ![alt text](sunflower.jpg)
