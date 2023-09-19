@@ -3,11 +3,6 @@
 1. kenyér
 - tej
 - sun
-<<<<<<< HEAD
-
-=======
->>>>>>> main
-
 
 ![alt text](sunflower.jpg)
 
